@@ -20,3 +20,7 @@
    a. Create new elasticsearch domain by copying existing ES domain properties like availability zone, tags and other settings with new KMS encryption key </br>
    b. create snapshot of existing ES domain indexes to S3 </br>
    c. restore snapshot to newly created ES domain </br>
+
+4. S3 Bucket Encryption: </br>
+   a. Find S3 bucket </br>
+   b. Change KMS encryption key </br>
